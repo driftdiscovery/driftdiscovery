@@ -40,4 +40,10 @@ The first foundations are being built thoughtfully, with an emphasis on privacy,
 
 </div>
 
+<div align="right" style="margin-top: 90px;">
+
+![Joined](https://img.shields.io/badge/Joined_-09.10.2026-009cff?style=flat)
+
+</div>
+
 <!-- In Jesus' beautiful and holy name we give thanks and pray. Amen. -->
